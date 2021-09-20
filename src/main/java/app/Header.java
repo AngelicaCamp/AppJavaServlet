@@ -8,7 +8,7 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
 
-@WebServlet("/header")
+@WebServlet("/cabecalhos")
 public class Header extends HttpServlet {
 
     @Override
